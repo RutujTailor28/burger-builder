@@ -1,6 +1,6 @@
 import React from 'react'
 import Aux from "../../hoc/Auxiliary";
-import classes from './Layout.css'
+import  './Layout.css'
 const layout = props => (
     <Aux>
         <div>Toolbar,Side drawer,Back drawer</div>
